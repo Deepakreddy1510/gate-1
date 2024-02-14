@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.12)  14 FEB 2024 01:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.12)  14 FEB 2024 14:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**gate1.tex
+**main.tex
 (./gate1.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
@@ -1159,13 +1159,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ]
 (./gate1.aux) ) 
 Here is how much of TeX's memory you used:
- 37292 strings out of 478287
- 927051 string characters out of 5849289
- 1435473 words of memory out of 5000000
+ 37294 strings out of 478287
+ 927061 string characters out of 5849289
+ 1435538 words of memory out of 5000000
  54889 multiletter control sequences out of 15000+600000
  635116 words of font info for 143 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 117i,12n,120p,409b,1320s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 117i,12n,120p,408b,1320s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rmsc.enc}{/usr/share/tex
 mf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.
 enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/
@@ -1179,7 +1179,7 @@ r6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmsy8.pfb>
-Output written on gate1.pdf (1 page, 180160 bytes).
+Output written on gate1.pdf (1 page, 180158 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
