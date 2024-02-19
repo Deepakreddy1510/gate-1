@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.12)  15 FEB 2024 23:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.12)  19 FEB 2024 17:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1143,9 +1143,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-(./figs/ckt3.tex
-\absvshift=\dimen351
-)
+(./figs/ckt3.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
@@ -1161,10 +1159,10 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ]
 (./gate1.aux) ) 
 Here is how much of TeX's memory you used:
- 37399 strings out of 478287
- 930487 string characters out of 5849289
- 1447526 words of memory out of 5000000
- 54996 multiletter control sequences out of 15000+600000
+ 37348 strings out of 478287
+ 929205 string characters out of 5849289
+ 1441014 words of memory out of 5000000
+ 54945 multiletter control sequences out of 15000+600000
  635116 words of font info for 143 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  117i,12n,120p,409b,1320s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1181,7 +1179,7 @@ r6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmsy8.pfb>
-Output written on gate1.pdf (1 page, 180466 bytes).
+Output written on gate1.pdf (1 page, 180574 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
