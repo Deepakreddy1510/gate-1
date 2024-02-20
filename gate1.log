@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.12)  19 FEB 2024 17:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.12)  20 FEB 2024 19:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1143,12 +1143,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-(./figs/ckt3.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-(./tables/table1.tex
+(./figs/ckt3.tex) (./tables/table1.tex
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1156,30 +1151,29 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]
-(./gate1.aux) ) 
+] (./gate1.aux) ) 
 Here is how much of TeX's memory you used:
  37348 strings out of 478287
  929205 string characters out of 5849289
- 1441014 words of memory out of 5000000
+ 1438988 words of memory out of 5000000
  54945 multiletter control sequences out of 15000+600000
  635116 words of font info for 143 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  117i,12n,120p,409b,1320s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-rmsc.enc}{/usr/share/tex
-mf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.
-enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/
-enc/dvips/lm/lm-mathex.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb><
-/usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type
-1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr
-/share/texmf/fonts/type1/public/lm/lmmi6.pfb></usr/share/texmf/fonts/type1/publ
-ic/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi9.pfb></usr/share/t
-exmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lm
-r6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts
-/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></
-usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/p
-ublic/lm/lmsy8.pfb>
-Output written on gate1.pdf (1 page, 180574 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rmsc.enc}{/usr/share/t
+exmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-maths
+y.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/font
+s/enc/dvips/lm/lm-mathex.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb
+></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/ty
+pe1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmmi6.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi9.pfb></usr/share
+/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/
+lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fon
+ts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
+</usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1
+/public/lm/lmsy8.pfb>
+Output written on gate1.pdf (1 page, 179965 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
