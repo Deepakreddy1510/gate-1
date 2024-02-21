@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.12)  21 FEB 2024 22:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.12)  21 FEB 2024 22:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1159,10 +1159,10 @@ Package pdftex.def Info: figs/ckt2.png  used on input line 91.
 
  <./figs/ckt2.png>] (./gate1.aux) ) 
 Here is how much of TeX's memory you used:
- 37355 strings out of 478287
- 929322 string characters out of 5849289
- 1439989 words of memory out of 5000000
- 54951 multiletter control sequences out of 15000+600000
+ 37334 strings out of 478287
+ 928684 string characters out of 5849289
+ 1439579 words of memory out of 5000000
+ 54930 multiletter control sequences out of 15000+600000
  635116 words of font info for 143 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  117i,12n,120p,409b,1320s stack positions out of 5000i,500n,10000p,200000b,80000s
