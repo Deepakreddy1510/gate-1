@@ -47,9 +47,13 @@
 \end{figure}
 
 \begin{align}
-    R_{eff} &= 5 \Omega \\
+    R_{eff} &= 20 \Omega \\
     i_{L} \brak{0^-} &= \frac{25}{125} A = 0.2A\\
     i_{L} \brak{0^-} &= i_{L} \brak{0^+}\\
+\end{align}
+Apply KVL 
+\begin{align}
+    -V_c \brak{0^-} + 20 \brak{1} &= 0\\
     V_c \brak{0^-} &= 20V
 \end{align}
 
@@ -57,7 +61,7 @@
 
 2) Switch $S_1$ is open and $S_2$ was closed\\
 
-At $t=0^{+}$ The capacitor is charged. Thus, it acts as a voltage source.The inductor acts as current source.\\
+At $t=0^{+}$ The capacitor is charged. Thus, it acts as a voltage source.The inductor acts as the current source.
 
 \bigskip
 
@@ -73,7 +77,13 @@ At $t=0^{+}$ The capacitor is charged. Thus, it acts as a voltage source.The ind
 
 
 \begin{align}
-    i_c \brak{0^+} = -1A
+    i_c \brak {0^+} &= - \brak {i_L \brak{0^-} + \frac{V_c \brak{0^-}}{25s}}\\
+    i_c \brak{0^+} &= -\brak{0.2 + \frac{0.8}{s}}
+\end{align}
+Taking Inverse Laplace Transform
+\begin{align}
+      i_c \brak{0^+} &= -0.2 \delta \brak{t} - 0.8u \brak{t}\\
+      &=-1A
 \end{align}
 
 \begin{table}[ht]
@@ -85,10 +95,11 @@ At $t=0^{+}$ The capacitor is charged. Thus, it acts as a voltage source.The ind
 
 \end{table}
 
+\newpage
 
 \begin{figure}[ht]
    \centering
-   \includegraphics[width=1.0\columnwidth]{figs/ckt2.png}
+   \includegraphics[width=1.2\columnwidth]{figs/ckt2.png}
    \caption{Plot of $V_c(0^-)$ vs time}
 \end{figure}
 

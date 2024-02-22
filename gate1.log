@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.12)  21 FEB 2024 22:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.12)  22 FEB 2024 12:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1134,12 +1134,7 @@ File: utxsyc.fd 2000/12/15 v3.1
 (./figs/ckt2.tex
 \absvshift=\dimen350
 )
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
@@ -1148,27 +1143,34 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 7.
-)
-<figs/ckt2.png, id=4, 462.528pt x 320.1561pt>
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+<figs/ckt2.png, id=23, 462.528pt x 320.1561pt>
 File: figs/ckt2.png Graphic file (type png)
 <use figs/ckt2.png>
-Package pdftex.def Info: figs/ckt2.png  used on input line 91.
-(pdftex.def)             Requested size: 252.0pt x 174.4352pt.
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+Package pdftex.def Info: figs/ckt2.png  used on input line 102.
+(pdftex.def)             Requested size: 302.39923pt x 209.32516pt.
 
+Overfull \hbox (50.39923pt too wide) in paragraph at lines 102--103
+ [][] 
+ []
+
+[2
 
  <./figs/ckt2.png>] (./gate1.aux) ) 
 Here is how much of TeX's memory you used:
- 37334 strings out of 478287
- 928684 string characters out of 5849289
- 1439579 words of memory out of 5000000
- 54930 multiletter control sequences out of 15000+600000
+ 37355 strings out of 478287
+ 929336 string characters out of 5849289
+ 1443791 words of memory out of 5000000
+ 54951 multiletter control sequences out of 15000+600000
  635116 words of font info for 143 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  117i,12n,120p,409b,1320s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rmsc
 .enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc
-/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/us
+/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/us
 r/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}</usr/share/texmf/fonts/type1/pu
 blic/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/sh
 are/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public
@@ -1179,10 +1181,10 @@ s/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmsy8.pfb>
-Output written on gate1.pdf (1 page, 198624 bytes).
+Output written on gate1.pdf (2 pages, 202666 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
