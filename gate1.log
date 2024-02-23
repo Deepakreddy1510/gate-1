@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.12)  22 FEB 2024 14:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.12)  23 FEB 2024 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1134,57 +1134,71 @@ File: utxsyc.fd 2000/12/15 v3.1
 (./figs/ckt2.tex
 \absvshift=\dimen350
 )
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 46.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 46.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-(./figs/ckt3.tex) (./tables/table1.tex
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 7.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 7.
-) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+(./figs/ckt3.tex) (./figs/ckt4.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/p
+dftex.map}
 
 
-]
-<figs/ckt2.png, id=23, 462.528pt x 320.1561pt>
-File: figs/ckt2.png Graphic file (type png)
-<use figs/ckt2.png>
-Package pdftex.def Info: figs/ckt2.png  used on input line 102.
-(pdftex.def)             Requested size: 302.39923pt x 209.32516pt.
+] (./figs/ckt5.tex)
+Overfull \hbox (6.68166pt too wide) detected at line 128
+[]
+ []
 
-Overfull \hbox (50.39923pt too wide) in paragraph at lines 102--103
+<figs/abd.png, id=22, 456.0237pt x 406.8801pt>
+File: figs/abd.png Graphic file (type png)
+<use figs/abd.png>
+Package pdftex.def Info: figs/abd.png  used on input line 132.
+(pdftex.def)             Requested size: 302.39923pt x 269.82063pt.
+
+Overfull \hbox (50.39923pt too wide) in paragraph at lines 132--133
  [][] 
  []
 
-[2
+(./tables/table1.tex)
+<figs/ckt2.png, id=24, 462.528pt x 320.1561pt>
+File: figs/ckt2.png Graphic file (type png)
+<use figs/ckt2.png>
+Package pdftex.def Info: figs/ckt2.png  used on input line 148.
+(pdftex.def)             Requested size: 302.39923pt x 209.32516pt.
 
- <./figs/ckt2.png>] (./gate1.aux) ) 
+Overfull \hbox (50.39923pt too wide) in paragraph at lines 148--149
+ [][] 
+ []
+
+[2 <./figs/abd.png> <./figs/ckt2.png>] (./gate1.aux) ) 
 Here is how much of TeX's memory you used:
- 37355 strings out of 478287
- 929336 string characters out of 5849289
- 1443790 words of memory out of 5000000
- 54951 multiletter control sequences out of 15000+600000
+ 37867 strings out of 478287
+ 946011 string characters out of 5849289
+ 1460648 words of memory out of 5000000
+ 55456 multiletter control sequences out of 15000+600000
  635116 words of font info for 143 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 117i,12n,120p,409b,1320s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-rmsc
-.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc
-/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/us
-r/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}</usr/share/texmf/fonts/type1/pu
-blic/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public
-/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi6.pfb></usr/share/te
-xmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmm
-i9.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/font
-s/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></u
-sr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/pub
-lic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share
-/texmf/fonts/type1/public/lm/lmsy8.pfb>
-Output written on gate1.pdf (2 pages, 189571 bytes).
+ 117i,14n,120p,409b,1320s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/e
+nc/dvips/lm/lm-rmsc.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/us
+r/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvip
+s/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/t
+exmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/l
+mcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi6
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmmi9.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/pub
+lic/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/te
+xmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
+sy6.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb>
+Output written on gate1.pdf (2 pages, 232785 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
